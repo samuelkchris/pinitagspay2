@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065661038230",
+    "project_id": "pinni-b2a39",
+    "storage_bucket": "pinni-b2a39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065661038230:android:6b67eda8b95c63a1020cb7",
+        "android_client_info": {
+          "package_name": "com.example.pinnitagpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXftL7YLFo1ilXy0u4WSpFCvJ9dwwvOwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
